@@ -24,7 +24,7 @@ Requisitos do Sistema
 
 Instruções de Uso
 -----------------
-1. Execute o arquivo `Calculadora_Triad.exe`.
+1. Execute o arquivo `Calculadora Triad.exe`.
 2. Selecione os itens desejados e insira as quantidades.
 3. Escolha o tipo de parceria (COM ou SEM).
 4. Clique em "💰 Ver Valor Total" para calcular o valor.
@@ -45,4 +45,4 @@ Exemplo de verificação no Windows:
 1. Abra o Prompt de Comando.
 2. Execute o comando:
    ```bash
-   certutil -hashfile Calculadora_Triad.exe SHA256
+   certutil -hashfile Calculadora Triad.exe SHA256
